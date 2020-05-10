@@ -3,7 +3,8 @@ import urllib.request, urllib.parse
 import json
 import time
 
-dataLocation = '/Users/pengyin/data/serv'
+dataLocation = '/home/pengyin'
+
 prometheuServer = "10.129.97.141:9090"
 #prometheuServer = "143.92.64.63:9090"
 #prometheuServer = "10.12.77.196:9090"

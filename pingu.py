@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 import re
 
-dataLocation = '/Users/pengyin/data/serv'
+dataLocation = '/home/pengyin'
 filename = dataLocation + "/Middleware"
 filename_for_write = dataLocation + "/pinggu"
 
